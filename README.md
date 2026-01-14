@@ -11,7 +11,7 @@ Clone the repository and install the dependencies:
 
 Bash
 
-git clone <your-repository-url>
+git clone [<your-repository-url>](https://github.com/vjkiwi1919/BuggyMSDSCart)
 cd <repository-folder>
 npm install
 
